@@ -1,3 +1,5 @@
+December 2022: This repository is no longer being maintained and will be archived
+
 ## White labeled EdX Android app demo
 
 This demo project demonstrates how you can build the EdX app for Android using your own configuration, branding, and app ID, according to the instructions in the [edx-app-android](https://github.com/edx/edx-app-android) repository.
